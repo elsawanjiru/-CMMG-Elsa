@@ -1,2 +1,4 @@
-# -CMMG-Elsa
-gaming is fun
+Tile Matching Game
+
+## Author
+Elsa Wanjiru
