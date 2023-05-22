@@ -5,7 +5,7 @@ Memory Game
 Elsa Wanjiru
 
 ## Portfolio Description
-This portfolio describes a company that deals with cars and all the servics a car can be offerd.
+This portfolio describes a way of how i managed to simply create a memory game
 
 ## Installation process
 
