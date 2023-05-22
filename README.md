@@ -10,7 +10,7 @@ This portfolio describes a way of how i managed to simply create a memory game
 ## Installation process
 
 ````
-git clone https://github.com/elsawanjiru/Elsa-s-wk-2-ip.git
+git clone https://github.com/elsawanjiru/-CMMG-Elsa.git
 git init
 git add .
 git commit -m "initial commit"
